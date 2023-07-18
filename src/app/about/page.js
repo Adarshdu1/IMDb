@@ -4,9 +4,9 @@ export default function About() {
       <h1 className="text-2xl font-medium text-amber-600">About</h1>
       <p>
         Welcome to our movie review website! We are your go-to destination for
-        all things cinema. Whether you're a casual moviegoer or a passionate
-        film aficionado, we've got you covered with insightful and comprehensive
-        reviews of the latest releases.
+        all things cinema. Whether you&apos;re a casual moviegoer or a
+        passionate film aficionado, we&apos;ve got you covered with insightful
+        and comprehensive reviews of the latest releases.
       </p>
       <p>
         At MovieReviews, we believe that movies have the power to entertain,
@@ -25,11 +25,11 @@ export default function About() {
         performances, direction, and overall impact of each movie.
       </p>
       <p>
-        We understand that everyone has unique tastes, and that's why we provide
-        a rating system that considers various aspects of a film. Our ratings
-        reflect the overall quality, entertainment value, and artistic merit,
-        helping you make an informed decision about which movies are worth your
-        time and which ones might not be your cup of tea.
+        We understand that everyone has unique tastes, and that&apos;s why we
+        provide a rating system that considers various aspects of a film. Our
+        ratings reflect the overall quality, entertainment value, and artistic
+        merit, helping you make an informed decision about which movies are
+        worth your time and which ones might not be your cup of tea.
       </p>
       <p>
         So grab your popcorn, sit back, and let us guide you through the
